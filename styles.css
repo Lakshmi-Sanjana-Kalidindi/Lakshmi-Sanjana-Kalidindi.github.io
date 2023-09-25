@@ -392,8 +392,10 @@ small {
 }
 
 .name {
-	font-size: clamp(2rem, 5vw, 6rem)!important;
+	font-size: clamp(4rem, 5vw, 6rem)!important;
 }
+
+
 
 .intro {
 	color: var(--other-clr);
